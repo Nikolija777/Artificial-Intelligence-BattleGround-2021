@@ -1,6 +1,8 @@
 # Artificial-Intelligence-BattleGround-2021
 
-I participated in this hackathon with a four-member team. The text of task is:
+I participated in this hackathon with a four-member team. Our task was to design a functional bot that will play the game independently using any programming language that supports API calls.
+
+## Task
 
 Maps are generated depending on the round of the competition. The closer you get to the finals, the harder the map gets. A map
 is fair to all players. 
