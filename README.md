@@ -1,5 +1,7 @@
 # Artificial-Intelligence-BattleGround-2021
 
+I participated in this hackathon with a four-member team. The text of task is:
+
 Maps are generated depending on the round of the competition. The closer you get to the finals, the harder the map gets. A map
 is fair to all players. 
 
